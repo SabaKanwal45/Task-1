@@ -11,3 +11,8 @@ To run this project locally
 To build project for deployment
 - npm run build
 - npm start
+
+Instagram Test User
+- username: 238.usman
+- password: 012978
+- URL: https://instagram-display-app.herokuapp.com/
